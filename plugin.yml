@@ -1,6 +1,6 @@
 name: Pinger
 main: me.alvinl.pinger.Pinger
-version: 1.0
+version: 0.1
 description: >
              Ping pong
 commands:
