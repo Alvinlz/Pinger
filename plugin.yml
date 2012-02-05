@@ -1,0 +1,8 @@
+name: Pinger
+main: me.alvinl.pinger.Pinger
+version: 1.0
+description: >
+             Ping pong
+commands:
+  ping:
+    description: pong!
